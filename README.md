@@ -16,7 +16,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehscudiero&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<center><div style="display: inline_block"><br>
 
 <img align="center" alt="Fe-js" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
@@ -24,7 +24,7 @@
 
 
 <img align="center" alt="Fe-HTML" height="36" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
+ </center>
 
           
           
