@@ -12,8 +12,7 @@
 <a href="https://github.com/fehscudiero">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fehscudiero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehscudiero&layout=compact&langs_count=16&theme=dark"/>
-</div>
+ 
 
 <div style="display: inline_block"><br>
 
