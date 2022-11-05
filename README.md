@@ -1,7 +1,10 @@
 ## <u>SEJA BEM VINDO AO MEU PERFIL!</u> 😄
 
 <br>
+<a href="https://github.com/fehscudiero">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fehscudiero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <div>
+  
   <a href="https://www.instagram.com/fehscudiero" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
  
   <a href="mailto:fehscudiero@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
@@ -9,8 +12,7 @@
  </div>
 
 
-<a href="https://github.com/fehscudiero">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fehscudiero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 
  
 
