@@ -1,4 +1,4 @@
-## <u>SEJA BEM VINDO AO MEU PERFIL!</u> 😄
+## <center><u>SEJA BEM VINDO AO MEU PERFIL!</u></center> 😄
 
 <div  align="center"> 
   <a href="https://github.com/Fehscudiero">
