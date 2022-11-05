@@ -1,5 +1,5 @@
 
-## <p align=”left”>SEJA BEM VINDO AO MEU PERFIL!😄</P></u> 
+## <p align=”center”>SEJA BEM VINDO AO MEU PERFIL!😄</P></u> 
 
 <div  align="center"> 
   <a href="https://github.com/Fehscudiero">
