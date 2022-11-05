@@ -1,6 +1,6 @@
 ## <u>SEJA BEM VINDO AO MEU PERFIL!</u> 😄
 
-<div>
+<div  align="center"> 
   <a href="https://github.com/Fehscudiero">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&langs_count=7&theme=react" />
@@ -17,7 +17,7 @@
 
 
  
-<div  align="center"> 
+
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Fe-js" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
