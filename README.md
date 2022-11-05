@@ -23,7 +23,7 @@
  <img align="center" alt="Fe-jquery" height="45" width="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <br>
           
-  ![Snake animation](https://github.com/Fehscudiero/Fescudiero/blob/output/github-contribution-grid-snake.svg)
+  
 
 
 
