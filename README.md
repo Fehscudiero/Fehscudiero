@@ -1,4 +1,4 @@
-
+<div style='text-align:justify>
 <h1><p>SEJA BEM VINDO AO MEU PERFIL!😄</h1></p> 
 
 <div  align="center"> 
