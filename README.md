@@ -1,5 +1,8 @@
-<div style='text-align:justify>
+
 <h1><p>SEJA BEM VINDO AO MEU PERFIL!😄</h1></p> 
+ <style>
+        h1{text-align: center;}
+ </style>
 
 <div  align="center"> 
   <a href="https://github.com/Fehscudiero">
