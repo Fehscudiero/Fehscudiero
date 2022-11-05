@@ -1,7 +1,7 @@
+
+## <p align=”left”>SEJA BEM VINDO AO MEU PERFIL!😄</P></u> 
+
 <div  align="center"> 
-## <u>SEJA BEM VINDO AO MEU PERFIL!</u> 😄
-
-
   <a href="https://github.com/Fehscudiero">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&langs_count=7&theme=react" />
