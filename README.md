@@ -7,6 +7,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
  
    <br>
+   <br>
    
    <div>
   <a href="https://www.instagram.com/fehscudiero" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a> 
