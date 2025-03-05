@@ -8,8 +8,8 @@
    <br>
    
    <div>
-  <a href="https://www.instagram.com/scudiero.js/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="mailto:scudiero.dev@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Yahoo Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"></a>
+  <a href="https://www.instagram.com/scudiero.js/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="mailto:scudiero.dev@yahoo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Yahoo Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"></a>
   </div> 
 <br>
 <br>   
