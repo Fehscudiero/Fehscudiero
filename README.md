@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🧑🏻‍💻 Sobre mim
 
 - 🔭 Atualmente trabalhando em: **sistemas inteligentes e soluções web modernas**
 - 🌱 Estudando/Aprendendo: **Inteligência Artificial, Next.js e automações com Python**
