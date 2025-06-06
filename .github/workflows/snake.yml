@@ -1,22 +1,41 @@
-name: Generate Snake Animation
+name: Gerar Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # executa diariamente à meia-noite UTC
+  workflow_dispatch:    # permite disparo manual
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Clonar repositório de perfil
+        uses: actions/checkout@v3
         with:
-          github_user_name: fehscudiero
-          outputs: |
-            ./github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          repository: <USERNAME>/<USERNAME>
+          path: perfil
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
         with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          node-version: '16'
+
+      - name: Instalar dependências do snk
+        working-directory: perfil
+        run: |
+          npm install @platane/snk
+
+      - name: Gerar GIF da cobra
+        working-directory: perfil
+        run: |
+          npx snk --username=<USERNAME> --output=github-contribution-grid-snake.gif
+
+      - name: Adicionar GIF gerado ao repositório
+        working-directory: perfil
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.gif
+          git commit -m "Atualizar contribution-snake" || echo "Nenhuma alteração detectada"
+          git push origin HEAD:main
