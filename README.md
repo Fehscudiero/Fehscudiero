@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Felipe Scudiero</h1>
+<h1 align="center">Olá, Meu nome é Felipe Scudiero</h1>
 <h3 align="center">Desenvolvedor apaixonado por transformar ideias em soluções reais e escaláveis.</h3>
 
 ---
