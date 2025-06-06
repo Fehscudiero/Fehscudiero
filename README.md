@@ -34,7 +34,7 @@
 ### 🧩 Snake Game - Commit gráfico
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/output/github-contribution-grid-snake.svg" />
+![Contribution Snake](https://github.com/Fehscudiero/Fehscudiero/blob/main/github-contribution-grid-snake.gif?raw=true)
 </p>
 
 ---
