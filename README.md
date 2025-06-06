@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,sql,nodejs,nextjs,git,github,linux,vscode" />
@@ -22,7 +22,7 @@
 
 ---
 <p align="center">
-### 📈 Estatísticas GitHub
+ 📈 Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight" />
@@ -33,7 +33,7 @@
 
 
 <p align="center">
- <h1>🐍 Snake Game – Commit gráfico</h1>
+🐍 Snake Game – Commit gráfico
 
 ![Contribution Snake](https://github.com/Fehscudiero/Fehscudiero/blob/main/github-contribution-grid-snake.gif?raw=true)
 
