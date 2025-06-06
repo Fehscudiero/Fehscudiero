@@ -31,7 +31,6 @@
 
 ---
 
-### 🧩 Snake Game - Commit gráfico
 
 <p align="center">
 ## 🐍 Snake Game – Commit gráfico
