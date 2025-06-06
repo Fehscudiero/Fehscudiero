@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # roda todo dia à meia-noite UTC
+    - cron: '0 0 * * *'   # executa diariamente às 00:00 UTC
   workflow_dispatch:     # permite disparo manual pela aba Actions
 
 jobs:
@@ -26,7 +26,8 @@ jobs:
 
       - name: Gerar e capturar GIF com npx
         run: |
-          npx -p snk snk --username=Fehscudiero --output=github-contribution-grid-snake.gif
+          # Aqui usamos o parâmetro correto: --github_user_name
+          npx -p snk snk --github_user_name Fehscudiero --output=github-contribution-grid-snake.gif
 
       - name: Commitar GIF gerado
         run: |
