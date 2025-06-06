@@ -33,7 +33,7 @@
 
 
 <p align="center">
- 🐍 Snake Game – Commit gráfico
+ <h1>🐍 Snake Game – Commit gráfico</h1>
 
 ![Contribution Snake](https://github.com/Fehscudiero/Fehscudiero/blob/main/github-contribution-grid-snake.gif?raw=true)
 
