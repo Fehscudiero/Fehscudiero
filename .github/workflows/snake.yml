@@ -21,10 +21,10 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Instalar dependências do snk
-        working-directory: perfil
+      - name: Gerar e capturar GIF com npx
         run: |
-          npm install @platane/snk
+          npx -p @platane/snk snk --username=Fehscudiero --output=github-contribution-grid-snake.gif
+
 
       - name: Gerar GIF da cobra
         working-directory: perfil
