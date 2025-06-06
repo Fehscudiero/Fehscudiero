@@ -13,7 +13,7 @@
 - ⚡ Curiosidade: *Sou movido por desafios técnicos e adoro criar ferramentas com impacto real.*
 
 ---
-<p align="center">
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p>
