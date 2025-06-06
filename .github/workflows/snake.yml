@@ -1,42 +1,51 @@
 name: Gerar Contribution Snake
 
 permissions:
-  contents: write
+  contents: write   # permite que o Actions faça push no repositório
 
 on:
+  push:
+  workflow_dispatch:  # permite rodar manualmente pela aba Actions
   schedule:
-    - cron: '0 0 * * *'   # executa diariamente às 00:00 UTC
-  workflow_dispatch:     # permite disparo manual pela aba Actions
+    - cron: '0 0 * * *'  # executa todo dia às 00:00 UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # 1) Faz checkout completo (fetch-depth: 0 para pegar todo o histórico de commits)
       - name: Clonar repositório de perfil
         uses: actions/checkout@v3
         with:
-          repository: Fehscudiero/Fehscudiero
           fetch-depth: 0
+          repository: Fehscudiero/Fehscudiero
 
-      - name: Configurar Node.js
-        uses: actions/setup-node@v3
+      # 2) Gera o GIF usando a Action oficial Platane/snk@v3
+      - name: Gerar Snake GIF
+        uses: Platane/snk@v3
         with:
-          node-version: '16'
+          # Obrigatório: usuário do GitHub cujo gráfico de contribuição será "comido"
+          github_user_name: Fehscudiero
 
-      - name: Gerar e capturar GIF com npx
-        run: |
-          # Aqui usamos o parâmetro correto: --github_user_name
-          npx -p snk snk --github_user_name Fehscudiero --output=github-contribution-grid-snake.gif
+          # Definimos que queremos gerar um arquivo GIF na raiz do repo
+          outputs: |
+            github-contribution-grid-snake.gif
 
+      # 3) Comita o GIF gerado de volta no branch principal
       - name: Commitar GIF gerado
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet --exit-code github-contribution-grid-snake.gif; then
-            echo "Nenhuma alteração detectada no GIF — pulando commit"
+          # Adiciona o arquivo gerado
+          git add github-contribution-grid-snake.gif
+          # Só faz commit se houver alguma mudança
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança no GIF — pulando commit"
           else
-            git add github-contribution-grid-snake.gif
             git commit -m "Atualizar contribution-snake"
+            # IMPORTANTE: se o branch principal for "main"
             git push origin HEAD:main
+            # Caso o branch principal seja "master", troquem a linha acima para:
+            # git push origin HEAD:master
           fi
