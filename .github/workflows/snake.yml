@@ -2,8 +2,8 @@ name: Gerar Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # executa diariamente à meia-noite UTC
-  workflow_dispatch:    # permite disparo manual
+    - cron: '0 0 * * *'    # executa diariamente às 00:00 UTC
+  workflow_dispatch:      # permite disparo manual
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
       - name: Clonar repositório de perfil
         uses: actions/checkout@v3
         with:
-          repository: <USERNAME>/<USERNAME>
+          repository: Fehscudiero/Fehscudiero
           path: perfil
 
       - name: Configurar Node.js
@@ -29,9 +29,9 @@ jobs:
       - name: Gerar GIF da cobra
         working-directory: perfil
         run: |
-          npx snk --username=<USERNAME> --output=github-contribution-grid-snake.gif
+          npx snk --username=Fehscudiero --output=github-contribution-grid-snake.gif
 
-      - name: Adicionar GIF gerado ao repositório
+      - name: Commitar GIF gerado
         working-directory: perfil
         run: |
           git config user.name "github-actions[bot]"
