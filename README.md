@@ -49,5 +49,5 @@
 
 ---
 
-> “Código limpo é como poesia: simples, direto e poderoso.” – *Felipe Scudiero*
+> "Códigos mudam o mundo – comece pelo seu" – *Felipe Scudiero*
 
