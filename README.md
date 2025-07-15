@@ -3,7 +3,7 @@
 
 ---
 
-### 🧑🏻‍💻 Sobre mim
+### 🧑🏻‍💻 Sobre mim:
 
 - 🔭 Atualmente trabalhando em: **sistemas inteligentes e soluções web modernas**
 - 🌱 Estudando/Aprendendo: **Inteligência Artificial, Next.js e automações com Python**
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas:
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,php,sql,nodejs,nextjs,github,linux,windows,vscode" />
@@ -22,7 +22,7 @@
 
 ---
 <p align="center">
- 📈 Estatísticas GitHub
+ 📈 Estatísticas:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight" />
