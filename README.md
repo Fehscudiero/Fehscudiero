@@ -40,7 +40,7 @@
 </p>
 
 ---
-
+<p align="center">
 ### 🌐 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/-Felipe_Scudiero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
