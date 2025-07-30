@@ -19,33 +19,28 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          repository: Fehscudiero/Fehscudiero
 
       # 2) Gera o GIF usando a Action oficial Platane/snk@v3
       - name: Gerar Snake GIF
         uses: Platane/snk@v3
         with:
-          # Obrigatório: usuário do GitHub cujo gráfico de contribuição será "comido"
+          # usuário do GitHub cujo gráfico será "comido"
           github_user_name: Fehscudiero
-
-          # Definimos que queremos gerar um arquivo GIF na raiz do repo
+          # caminho onde o GIF será gerado
           outputs: |
-            github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.gif
 
       # 3) Comita o GIF gerado de volta no branch principal
       - name: Commitar GIF gerado
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Adiciona o arquivo gerado
-          git add github-contribution-grid-snake.gif
-          # Só faz commit se houver alguma mudança
+          # adiciona o GIF que está dentro de dist/
+          git add dist/github-contribution-grid-snake.gif
+          # só faz commit se houver mudança
           if git diff --cached --quiet; then
             echo "Nenhuma mudança no GIF — pulando commit"
           else
             git commit -m "Atualizar contribution-snake"
-            # IMPORTANTE: se o branch principal for "main"
             git push origin HEAD:main
-            # Caso o branch principal seja "master", troquem a linha acima para:
-            # git push origin HEAD:master
           fi
