@@ -7,7 +7,6 @@
 
 - 🔭 Atualmente trabalhando em: **sistemas inteligentes e soluções web modernas**
 - 🌱 Estudando/Aprendendo: **Inteligência Artificial, Next.js e automações com Python**
-- 💬 Vamos conversar sobre: **Web dev, magia do back-end, visão computacional e previsões com IA que até parecem adivinhação.**
 - 📫 Contato: **scudiero.dev@yahoo.com**
 - 💼 LinkedIn: [Felipe Scudiero](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
 - ⚡ Curiosidade: **Sou movido por desafios técnicos e adoro criar ferramentas com impacto real.**
