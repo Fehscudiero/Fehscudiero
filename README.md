@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Meu nome é Felipe Scudiero</h1>
-<h3 align="center">Desenvolvedor apaixonado por transformar ideias em soluções reais e escaláveis.</h3>
+<h3 align="center">Codificando ideias, escalando soluções, impulsionando inovação.</h3>
 
 ---
 
