@@ -24,7 +24,7 @@
 
 
 <p align="center">
-🐍 Commit gráfico
+🐍🎮🕹️
 
 ![Contribution Snake](https://github.com/Fehscudiero/Fehscudiero/blob/main/github-contribution-grid-snake.gif?raw=true)
 
