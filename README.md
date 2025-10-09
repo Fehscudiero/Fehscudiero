@@ -22,14 +22,6 @@
 ---
 
 
-
-<p align="center">
-🐍🎮🕹️
-
-![Contribution Snake](https://github.com/Fehscudiero/Fehscudiero/blob/main/github-contribution-grid-snake.gif?raw=true)
-
-</p>
-
 ---
 <p align="center">
  🌐 Vamos nos conectar!
