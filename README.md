@@ -9,7 +9,7 @@
 - 🌱 Estudando/Aprendendo: **Inteligência Artificial, Next.js e automações com Python**
 - 📫 Contato: **scudiero.dev@yahoo.com**
 - 💼 LinkedIn: [Felipe Scudiero](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
-
+- 🔗 Portfólio: [Felipe Scudiero](https://devscud.vercel.app/)
 
 ---
 
