@@ -3,17 +3,17 @@
 
 ---
 
-### 🧑🏻‍💻 Sobre mim:
+###  Sobre mim:
 
-- 🔭 Atualmente trabalhando em: **sistemas inteligentes e soluções web modernas**
-- 🌱 Estudando/Aprendendo: **Inteligência Artificial, Next.js e automações com Python**
-- 📫 Contato: **scudiero.dev@yahoo.com**
-- 💼 LinkedIn: [Felipe Scudiero](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
+-  Atualmente trabalhando em: **sistemas inteligentes e soluções web modernas**
+-  Estudando/Aprendendo: **Inteligência Artificial, Next.js e automações com Python**
+-  Contato: **scudiero.dev@yahoo.com**
+-  LinkedIn: [Felipe Scudiero](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
 - 🔗 Portfólio: [DevScud](https://devscud.vercel.app/)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas:
+##  Tecnologias e Ferramentas:
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,php,sql,nodejs,nextjs,github,linux,windows,vscode" />
@@ -24,7 +24,7 @@
 
 ---
 <p>
- 🌐 Vamos nos conectar!
+  Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/-Felipe_Scudiero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
 [![Email](https://img.shields.io/badge/-scudiero.dev@yahoo.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:scudiero.dev@yahoo.com)
