@@ -46,7 +46,7 @@
 
 <p>
 
-  Vamos nos conectar!
+  <h2>Vamos nos conectar!</h2>h2>
 
 
 
