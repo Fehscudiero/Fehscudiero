@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Meu nome é Felipe</h1>
 
-<h3 align="center">Codificando ideias, escalando soluções, impulsionando inovação.</h3>
+
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-###  Sobre mim:
+
 
 
 
