@@ -1,0 +1,39 @@
+name: Generate Rotating Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Snake Animation (Spin)
+        uses: Platane/snk@v3
+        id: snake-spin
+        with:
+          github_user_name: Fehscudiero # 🛑 Seu usuário!
+          # Força a cobrinha a aparecer em formato SVG com a rotação
+          outputs: |
+            dist/github-contribution-grid-snake-spin.svg
+          svg_out: dist/github-contribution-grid-snake-spin.svg
+          # Escolha um tema
+          palette: github-dark
+          # Mude a cor da cobrinha
+          color_snake: red
+          # Adiciona a animação de rotação/spin!
+          animation: left-right
+          
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: dist
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
