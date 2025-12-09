@@ -32,11 +32,7 @@
 
 
 ---
-
 ![Animação da Cobrinha Clássica](https://github.com/Fehscudiero/Fehscudiero/raw/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark)
-![Animação da Cobrinha Clássica](https://github.com/Fehscudiero/Fehscudiero/raw/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark)
-
-
 ---
 
 > "Códigos mudam o mundo – comece pelo seu." – *Felipe Scudiero* ⌬
