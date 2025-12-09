@@ -1,4 +1,4 @@
-name: Generate Rotating Snake Animation
+name: Generate Classic Snake Animation
 
 on:
   schedule:
@@ -19,15 +19,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 2. Gera a Animação da Cobrinha (SVG Rotativo com Fundo Escuro)
-      - name: Generate Snake Animation (Spin)
+      # 2. Gera a Animação da Cobrinha (SVG Clássico que Cresce)
+      - name: Generate Snake Animation (Classic)
         uses: Platane/snk@v3
         with:
           github_user_name: Fehscudiero
-          # Corrigido: Parâmetros de personalização (dark, red, spin) passados
-          # DENTRO do valor 'outputs' como um URL query.
+          # NOVO PARÂMETRO: 'animation=snake' para movimento em grade e crescimento.
           outputs: |
-            dist/github-contribution-grid-snake-spin-dark.svg?palette=github-dark&color_snake=red&animation=left-right
+            dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&color_snake=red&animation=snake
 
       # 3. Faz o Deploy dos arquivos gerados para a branch 'dist'
       - name: Deploy to GitHub Pages
