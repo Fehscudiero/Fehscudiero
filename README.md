@@ -26,9 +26,12 @@
 <p>
   Vamos nos conectar!
 
-### 🐍 Minha Cobrinha de Contribuições
 
 ![Snake game de contribuições](https://github.com/Fehscudiero/Fehscudiero/raw/dist/github-contribution-grid-snake.svg)
+
+### 🌪️ Contribuições em Rotação!
+
+![Animação da Cobrinha Giratória](https://github.com/Fehscudiero/Fehscudiero/raw/dist/github-contribution-grid-snake-spin.svg)
 
 
 [![LinkedIn](https://img.shields.io/badge/-Felipe_Scudiero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
