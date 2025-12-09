@@ -1,12 +1,13 @@
-name: Generate Snake Animation
+name: Generate Rotating Snake Animation
 
 on:
   schedule:
+    # Roda uma vez por dia (meia-noite UTC)
     - cron: "0 0 * * *"
   workflow_dispatch:
-  
+
 permissions:
-  contents: write # Mantemos a permissão corrigida
+  contents: write # ESSENCIAL para poder criar a branch 'dist'
 
 jobs:
   generate:
@@ -14,18 +15,21 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # 1. Checkout do código
       - name: Checkout
         uses: actions/checkout@v4
-        
-      - name: Generate Snake Animation (SPIN)
+
+      # 2. Gera a Animação da Cobrinha (SVG Rotativo com Fundo Escuro)
+      - name: Generate Snake Animation (Spin)
         uses: Platane/snk@v3
         with:
           github_user_name: Fehscudiero
-          # Força a animação "left-right" (rotação) e o tema escuro (github-dark)
-          # A Action V3 aceita esses parâmetros aqui!
+          # Corrigido: Parâmetros de personalização (dark, red, spin) passados
+          # DENTRO do valor 'outputs' como um URL query.
           outputs: |
             dist/github-contribution-grid-snake-spin-dark.svg?palette=github-dark&color_snake=red&animation=left-right
-            
+
+      # 3. Faz o Deploy dos arquivos gerados para a branch 'dist'
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
