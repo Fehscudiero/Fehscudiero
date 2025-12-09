@@ -27,8 +27,6 @@
   Vamos nos conectar!
 
 
-![Snake game de contribuições](https://github.com/Fehscudiero/Fehscudiero/raw/dist/github-contribution-grid-snake.svg)
-
 ### 🌪️ Contribuições em Rotação!
 
 ![Animação da Cobrinha Giratória](https://github.com/Fehscudiero/Fehscudiero/raw/dist/github-contribution-grid-snake-spin.svg)
