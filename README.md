@@ -35,20 +35,11 @@
 </p>
 
 
-
----
-
-
-
-
-
 ---
 
 <p>
 
-  <h2>Vamos nos conectar!</h2>h2>
-
-
+  <h2>Vamos nos conectar!</h2>
 
 [![LinkedIn](https://img.shields.io/badge/-Felipe_Scudiero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
 
@@ -56,7 +47,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Fehscudiero)
 
-
+---
 
 <h3 align="center">🐍Contribuições</h3>
 <p align="center">
