@@ -61,7 +61,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Fehscudiero)
 
 
----
+
 <h3 align="center">🐍Contribuições</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" alt="Animação da Cobrinha Clássica" />
