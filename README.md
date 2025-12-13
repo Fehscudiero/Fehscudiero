@@ -48,7 +48,7 @@
 
 ---
 
-<h3 align="center">🐍Contribuições</h3>
+<h3 align="center">
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" alt="Animação da Cobrinha Clássica" />
 </p>
