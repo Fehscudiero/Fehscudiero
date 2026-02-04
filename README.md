@@ -1,16 +1,6 @@
-# 👋 Olá, eu sou o Felipe!
+<h1 align="center">Olá, eu sou o Felipe Scudiero 👋</h1>
 
-
-
-Desenvolvedor apaixonado por **Sistemas Inteligentes** e **Performance Extrema**.
-
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
-
-[![Website](https://img.shields.io/badge/-Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.scudiero.com.br)
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scudiero.dev@yahoo.com)
+<p align="center"><strong>Software Developer | Especialista em Web Performance & Core Web Vitals</strong></p>
 
 
 
@@ -18,19 +8,21 @@ Desenvolvedor apaixonado por **Sistemas Inteligentes** e **Performance Extrema**
 
 
 
-### 🛠 Minha Caixas de Ferramentas
+- 👨‍💻 **Sobre mim:** Desenvolvedor de 34 anos focado em criar interfaces intuitivas e experiências digitais de alta performance.
 
-- **Linguagens:** TypeScript, JavaScript, Python, PHP, Java.
+- 🚀 **Foco Atual:** Otimização de Web Performance (PageSpeed 100) e soluções modernas com React/Vite.
 
-- **Frameworks:** React, Next.js, Vite, Tailwind CSS.
+- 🎓 **Estudando:** Inteligência Artificial, Next.js e Automações com Python.
 
-- **Ferramentas:** Git, Docker, Linux, VS Code.
+- 🌐 **Site:** [scudiero.com.br](https://www.scudiero.com.br)
 
 
 
-<p align="left">
+### 🛠 Tecnologias e Ferramentas:
 
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,tailwind,py,nodejs,php,java,sql,git,linux" />
+<p>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,nextjs,python,sql,github,vscode,linux" />
 
 </p>
 
@@ -38,12 +30,12 @@ Desenvolvedor apaixonado por **Sistemas Inteligentes** e **Performance Extrema**
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" alt="Snake Animation" />
 
 </p>
 
 
 
----
+> "Códigos mudam o mundo – comece pelo seu." – *Felipe Scudiero ⌬*
 
-Códigos mudam o mundo – comece pelo seu. ⌬ 
+ 
