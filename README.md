@@ -46,4 +46,4 @@ Desenvolvedor apaixonado por **Sistemas Inteligentes** e **Performance Extrema**
 
 ---
 
-*"Códigos mudam o mundo – comece pelo seu. ⌬" 
+Códigos mudam o mundo – comece pelo seu. ⌬ 
