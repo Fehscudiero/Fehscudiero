@@ -46,7 +46,7 @@
 
 
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,nextjs,python,sql,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,php,tailwind,nodejs,nextjs,python,sql,github,vscode,linux" />
 
 
 
