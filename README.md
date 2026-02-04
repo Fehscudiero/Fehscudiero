@@ -1,22 +1,16 @@
-<h1 align="center">Olá, Meu nome é Felipe.</h1>
-  
-
-
-   
-
----
-  
+# 👋 Olá, eu sou o Felipe!
 
 
 
+Desenvolvedor apaixonado por **Sistemas Inteligentes** e **Performance Extrema**.
 
 
 
--  Atualmente trabalhando em: **sistemas inteligentes e soluções web modernas**
--  Estudando/Aprendendo: **Inteligência Artificial, Next.js e automações com Python**
--  Contato: **scudiero.dev@yahoo.com**✉️
--  LinkedIn: [Felipe Scudiero](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)💻
--  Portfólio:  https://www.scudiero.com.br 🔗
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
+
+[![Website](https://img.shields.io/badge/-Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.scudiero.com.br)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scudiero.dev@yahoo.com)
 
 
 
@@ -24,34 +18,32 @@
 
 
 
-##  Tecnologias e Ferramentas:
+### 🛠 Minha Caixas de Ferramentas
+
+- **Linguagens:** TypeScript, JavaScript, Python, PHP, Java.
+
+- **Frameworks:** React, Next.js, Vite, Tailwind CSS.
+
+- **Ferramentas:** Git, Docker, Linux, VS Code.
 
 
 
-<p>
+<p align="left">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,php,sql,nodejs,nextjs,github,linux,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,tailwind,py,nodejs,php,java,sql,git,linux" />
 
 </p>
 
 
----
 
-<p>
-
-  <h2>Vamos nos conectar!</h2>
-
-[![LinkedIn](https://img.shields.io/badge/-Felipe_Scudiero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-scudiero-5513261b3/)
-
-[![Email](https://img.shields.io/badge/-scudiero.dev@yahoo.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:scudiero.dev@yahoo.com)
-
-
----
-
-<h3 align="center">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" alt="Animação da Cobrinha Clássica" />
+
+  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" />
+
 </p>
 
 
-> "Códigos mudam o mundo – comece pelo seu." – *Felipe Scudiero* ⌬
+
+---
+
+*"Códigos mudam o mundo – comece pelo seu. ⌬" 
