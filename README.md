@@ -36,6 +36,6 @@
 
 
 
-> "Códigos mudam o mundo – comece pelo seu." – *Felipe Scudiero ⌬*
+> Códigos mudam o mundo – comece pelo seu. – *Felipe Scudiero ⌬*
 
  
