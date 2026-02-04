@@ -37,6 +37,7 @@
 
 
 <p align="center">
-  <i>"Códigos mudam o mundo – comece pelo seu."</i> — <b>Felipe Scudiero ⌬</b>
+  <i>"Códigos mudam o mundo – comece pelo seu."</i><br>
+  — <b>Felipe Scudiero ⌬</b>
 </p>
  
