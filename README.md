@@ -5,7 +5,7 @@
 <p align="center"><strong>Software Developer | Especialista em Web Performance & Core Web Vitals</strong></p>
 
 
-
+ 
    
        
    
