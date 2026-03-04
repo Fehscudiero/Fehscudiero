@@ -22,7 +22,7 @@
 
 
 
-- 🚀 **Foco Atual:** Otimização de Web Performance (PageSpeed 100) e soluções modernas com React/Vite.
+- 🚀 **Foco Atual:** Otimização de Web Performance (PageSpeed 100) e soluções modernas com React,Vite e Next.js :) 
 
 
 
