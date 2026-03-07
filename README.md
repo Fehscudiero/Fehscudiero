@@ -16,7 +16,7 @@
   
 
   
-
+   
 
 - 👨‍💻 **Sobre mim:** Desenvolvedor de 34 anos focado em criar interfaces intuitivas e experiências digitais de alta performance.
 
