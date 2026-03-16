@@ -1,6 +1,6 @@
  <h1 align="center">Olá, eu sou o Felipe Scudiero 👋</h1> 
   
-     
+       
    
 <p align="center"><strong>Software Developer | Especialista em Web Performance & Core Web Vitals</strong></p>
 
