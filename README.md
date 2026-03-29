@@ -12,13 +12,8 @@
 
 ### 🚀 Performance Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&locale=pt-br&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&theme=tokyonight&border_radius=10&hide=html,css&hide_border=true&bg_color=0D1117" width="39%" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117" width="88%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117" width="90%" alt="GitHub Streak" />
 </p>
 
 ---
