@@ -19,7 +19,7 @@
     "foco_atual": "Otimização extrema de Web Performance (PageSpeed 100)",
     "estudando": ["Inteligência Artificial", "Automações em Python"],
     "website": "[https://www.scudiero.com.br](https://www.scudiero.com.br)"
-  }
+  } ```
 }🛠 Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
