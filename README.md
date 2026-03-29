@@ -6,19 +6,45 @@
 <strong>Engenharia de Frontend | Interfaces Intuitivas | Experiências de Alta Performance</strong>
 </p>
 
-👨‍💻 whoami
+⚡ Performance Report (Developer Specs)
 
-{
-  "desenvolvedor": {
-    "nome": "Felipe Scudiero",
-    "idade": 34,
-    "stack_principal": ["React", "Vite", "Next.js"],
-    "foco_atual": "Otimização extrema de Web Performance (PageSpeed 100)",
-    "estudando": ["Inteligência Artificial", "Automações em Python"],
-    "website": "[https://www.scudiero.com.br](https://www.scudiero.com.br)"
-  }
-}
+Metric
 
+Status
+
+Value
+
+Largest Contentful Paint
+
+🚀
+
+Next.js / React / Vite
+
+First Input Delay
+
+⚡
+
+High Performance Code
+
+Cumulative Layout Shift
+
+🟢
+
+0 (Pixel Perfect UI)
+
+Current Focus
+
+🎯
+
+AI & Automation
+
+Engine Age
+
+🛠️
+
+34 Years Optimized
+
+🌐 Visite o meu site: scudiero.com.br
 
 🛠 Tech Stack
 
