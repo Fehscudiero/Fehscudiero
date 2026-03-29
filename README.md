@@ -8,6 +8,7 @@
 
 ---
 
+
 ### 👨‍💻 `whoami`
 
 ```json
@@ -19,8 +20,10 @@
     "foco_atual": "Otimização extrema de Web Performance (PageSpeed 100)",
     "estudando": ["Inteligência Artificial", "Automações em Python"],
     "website": "[https://www.scudiero.com.br](https://www.scudiero.com.br)"
-  } ```
-}🛠 Tech Stack
+  }
+}
+
+🛠 Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,php,c,tailwind,nodejs,python,sql,github,vscode,linux&perline=8" alt="Tech Stack" />
