@@ -72,6 +72,6 @@
 
 
 
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
 
 > Códigos mudam o mundo – comece pelo seu. – *Felipe Scudiero ⌬*
