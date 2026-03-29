@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Scudiero;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100+Hunter](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Scudiero;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100+Hunter)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Scudiero;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100+Hunter" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,10 +18,9 @@
     "stack_principal": ["React", "Vite", "Next.js"],
     "foco_atual": "Otimização extrema de Web Performance (PageSpeed 100)",
     "estudando": ["Inteligência Artificial", "Automações em Python"],
-    "website": "https://www.scudiero.com.br"
+    "website": "[https://www.scudiero.com.br](https://www.scudiero.com.br)"
   }
-}
-🛠 Tech Stack
+}🛠 Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,php,c,tailwind,nodejs,python,sql,github,vscode,linux&perline=8" alt="Tech Stack" />
