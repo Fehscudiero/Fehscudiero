@@ -3,54 +3,53 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Performance_Optimization-3B82F6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-React_&_Next.js-000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Status-Building_the_Future-06b6d4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance-100-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-React_Next.js-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-Core_Web_Vitals-000?style=for-the-badge&logo=lighthouse&logoColor=white" />
 </p>
 
 ---
 
-### ⚡ System Status & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fehscudiero&theme=tokyonight&column=7&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
+### 🚀 Performance Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&locale=pt-br&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&theme=tokyonight&border_radius=10&hide=html,css&hide_border=true&bg_color=0D1117" width="39%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&locale=pt-br&hide_border=true&bg_color=0D1117" height="170" alt="Stats de Felipe" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&theme=tokyonight&border_radius=10&hide=html,css&hide_border=true&bg_color=0D1117" height="170" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117" width="88%" />
 </p>
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
+### 🛠 System Core (Tech Stack)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,python,php,mysql,linux,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,python,php,mysql,linux,github,vscode,docker,aws,figma&perline=8" />
 </p>
 
 ---
 
-### 🌑 Activity Insight
+### 📊 Code Activity Log
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" alt="Snake Animation" />
 </p>
 
 ---
 
-### 📝 Terminal Log: `whoami`
+### 📝 Terminal Info
 
-* 👨‍💻 **BIO:** Desenvolvedor de 34 anos focado em interfaces de alta resposta.
-* 🚀 **MISSÃO:** Otimização máxima (PageSpeed 100) e arquiteturas escaláveis.
-* 🎓 **R&D:** Mergulhando em IA Aplicada e Automações com Python.
-* 🌐 **HUB:** [scudiero.com.br](https://www.scudiero.com.br)
+- 👨‍💻 **Role:** Senior Performance Engineer (34 anos)
+- 🚀 **Focus:** Otimização Crítica e UX de Alta Velocidade.
+- 🎓 **Research:** AI-Driven Automation & Python Workflows.
+- 🌐 **Web:** [scudiero.com.br](https://www.scudiero.com.br)
 
 <br/>
 
 > **"Códigos mudam o mundo – comece pelo seu."** – *Felipe Scudiero ⌬*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
 </p>
