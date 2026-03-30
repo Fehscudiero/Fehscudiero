@@ -28,11 +28,14 @@
 <br/>
 <br/>
 
-### 📝 System Information
-**Role:** Senior Performance Engineer (34 years)
-**Focus:** Critical Optimization & High-Velocity UX
-**Research:** AI-Driven Automation & Python Workflows
-**Web:** [scudiero.com.br](https://www.scudiero.com.br)
+### 📝 Terminal Info
+
+
+
+- 👨‍💻 **Role:** Senior Performance Engineer (34 anos)
+- 🚀 **Focus:** Otimização Crítica e UX de Alta Velocidade.
+- 🎓 **Research:** AI-Driven Automation & Python Workflows.
+- 🌐 **Web:** [scudiero.com.br](https://www.scudiero.com.br)
 
 <br/>
 
