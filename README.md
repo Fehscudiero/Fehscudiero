@@ -10,12 +10,17 @@
 
 <br/>
 
-### 🎯 Proof of Performance (Real World)
+### 🎯 Production Performance Proof
+
 <p align="center">
-  <a href="https://highmed.com.br">
-    <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=highmed.com.br&style=for-the-badge&up_color=success&up_message=online&url=https%3A%2F%2Fhighmed.com.br" />
+  <a href="https://www.highmedeletrica.com.br/?v=1">
+    <img src="https://img.shields.io/badge/Site-highmedeletrica.com.br-0D1117?style=for-the-badge&logo=googlechrome&labelColor=3B82F6&color=0D1117" />
   </a>
-  <img src="https://img.shields.io/badge/Lighthouse_Mobile-100%2F100-success?style=for-the-badge&logo=googlechrome" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Lighthouse-100%2F100-success?style=for-the-badge&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/LCP-<0.8s-success?style=for-the-badge&logo=speedtest" />
+  <img src="https://img.shields.io/badge/CLS-0.0-success?style=for-the-badge&logo=pagespeedinsights" />
 </p>
 
 <br/>
@@ -26,14 +31,8 @@
 <br/>
 <br/>
 
-### 📈 Weekly Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fehscudiero&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" width="80%" alt="WakaTime Stats" />
-
-<br/>
-<br/>
-
 ### 📊 Code Activity Log
-<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" width="90%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&v=final" width="90%" alt="Snake Animation" />
 
 <br/>
 <br/>
@@ -42,7 +41,7 @@
 <p align="center">
   <code><b>👨‍💻 Role:</b> Pleno Performance Engineer</code><br>
   <code><b>🚀 Focus:</b> Otimização Crítica & High-Velocity UX</code><br>
-  <code><b>🏆 Last Win:</b> Otimização Core Web Vitals (Highmed)</code><br>
+  <code><b>🏆 Last Win:</b> PageSpeed 100/100 (E-commerce)</code><br>
   <code><b>🌐 Hub:</b> <a href="https://scudiero.com.br">scudiero.com.br</a></code>
 </p>
 
