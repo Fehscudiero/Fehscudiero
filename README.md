@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Scudiero;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100+Hunter" alt="Typing SVG" width="100%" />
  
-<br/><br/>
- 
 <p>
   <img src="https://img.shields.io/badge/Performance-100-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-React_Next.js-blue?style=for-the-badge&logo=react&logoColor=white" />
@@ -12,22 +10,24 @@
 
 <br/>
 
-### 🚀 Performance & System Metrics
-
+### 🎯 Proof of Performance (Real World)
 <p align="center">
-  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800&v=20260402" height="195" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=day12_force" height="195" alt="GitHub Streak" />
+  <a href="https://highmed.com.br">
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=highmed.com.br&style=for-the-badge&up_color=success&up_message=online&url=https%3A%2F%2Fhighmed.com.br" />
+  </a>
+  <img src="https://img.shields.io/badge/Lighthouse_Mobile-100%2F100-success?style=for-the-badge&logo=googlechrome" />
 </p>
 
-<p align="center">
-  <img src="https://minha-api-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=20260402" width="80%" alt="Top Languages" />
-</p>
- 
 <br/>
 
-### 🛠 System Core (Tech Stack)
+### 🛠 Tech Stack & Core Systems
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,python,php,mysql,linux,github,vscode,docker,aws,figma&perline=8" width="90%" />
+
+<br/>
+<br/>
+
+### 📈 Weekly Coding Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fehscudiero&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" width="80%" alt="WakaTime Stats" />
 
 <br/>
 <br/>
@@ -38,11 +38,11 @@
 <br/>
 <br/>
 
-### 📝 System Information
+### 📝 Engineering Info
 <p align="center">
   <code><b>👨‍💻 Role:</b> Pleno Performance Engineer</code><br>
   <code><b>🚀 Focus:</b> Otimização Crítica & High-Velocity UX</code><br>
-  <code><b>🎓 R&D:</b> AI-Driven Automation & Python Workflows</code><br>
+  <code><b>🏆 Last Win:</b> Otimização Core Web Vitals (Highmed)</code><br>
   <code><b>🌐 Hub:</b> <a href="https://scudiero.com.br">scudiero.com.br</a></code>
 </p>
 
