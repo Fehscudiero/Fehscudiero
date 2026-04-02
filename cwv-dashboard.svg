@@ -1,5 +1,6 @@
 <svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <style>
+    /* Animações e Efeitos Master */
     @keyframes drawProgress { from { stroke-dashoffset: 283; } to { stroke-dashoffset: 0; } }
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
     @keyframes pulseGlow {
@@ -10,15 +11,18 @@
     .animate-draw { stroke-dasharray: 283; stroke-dashoffset: 283; animation: drawProgress 1.5s ease-out forwards; }
     .animate-fade { opacity: 0; animation: fadeIn 1s ease-out 1s forwards; }
     .glowing-score { animation: pulseGlow 3s infinite; }
+    #pagespeed-button { transition: all 0.2s ease-in-out; cursor: pointer; }
+    #pagespeed-button:hover rect { fill: #2563EB; }
+    #pagespeed-button:hover { transform: translateY(-2px); filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.4)); }
   </style>
 
   <rect width="800" height="200" rx="10" fill="#16161E" stroke="#1F2937" stroke-width="1"/>
   <rect width="790" height="190" x="5" y="5" rx="8" fill="#1A1B26" />
 
-  <circle cx="120" cy="100" r="45" stroke="#1F2937" stroke-width="10"/>
-  <circle cx="120" cy="100" r="45" stroke="#10B981" stroke-width="10" stroke-linecap="round" transform="rotate(-90 120 100)" class="animate-draw" />
-  <text x="120" y="112" font-family="Fira Code, monospace" font-size="38" font-weight="700" fill="#10B981" text-anchor="middle" class="animate-fade glowing-score">100</text>
-  <text x="120" y="155" font-family="Fira Code, monospace" font-size="12" fill="#94A3B8" text-anchor="middle">PERFORMANCE</text>
+  <circle cx="120" cy="80" r="45" stroke="#1F2937" stroke-width="10"/>
+  <circle cx="120" cy="80" r="45" stroke="#10B981" stroke-width="10" stroke-linecap="round" transform="rotate(-90 120 80)" class="animate-draw" />
+  <text x="120" y="92" font-family="Fira Code, monospace" font-size="38" font-weight="700" fill="#10B981" text-anchor="middle" class="animate-fade glowing-score">100</text>
+  <text x="120" y="160" font-family="Fira Code, monospace" font-size="12" fill="#94A3B8" text-anchor="middle">PERFORMANCE</text>
 
   <text x="240" y="60" font-family="Fira Code, monospace" font-size="16" fill="#FFFFFF">SITE ALVO:</text>
   <text x="240" y="85" font-family="Fira Code, monospace" font-size="20" font-weight="600" fill="#3B82F6">highmedeletrica.com.br</text>
@@ -27,8 +31,10 @@
   <text x="350" y="130" font-family="Fira Code, monospace" font-size="12" fill="#10B981">● FID: 1ms</text>
   <text x="450" y="130" font-family="Fira Code, monospace" font-size="12" fill="#10B981">● CLS: 0.0</text>
 
-  <g id="pagespeed-button">
-    <rect x="550" y="80" width="220" height="50" rx="8" fill="#3B82F6"/>
-    <text x="660" y="110" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">TESTAR NO PAGESPEED →</text>
-  </g>
+  <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/?v=1">
+    <g id="pagespeed-button">
+      <rect x="550" y="80" width="220" height="50" rx="8" fill="#3B82F6"/>
+      <text x="660" y="110" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">TESTAR NO PAGESPEED →</text>
+    </g>
+  </a>
 </svg>
