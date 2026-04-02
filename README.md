@@ -10,18 +10,11 @@
 
 <br/>
 
-### 🎯 Production Performance Proof
+### 🚀 Live Performance Monitor (Core Wins)
 
-<p align="center">
-  <a href="https://www.highmedeletrica.com.br/?v=1">
-    <img src="https://img.shields.io/badge/Site-highmedeletrica.com.br-0D1117?style=for-the-badge&logo=googlechrome&labelColor=3B82F6&color=0D1117" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Lighthouse-100%2F100-success?style=for-the-badge&logo=lighthouse&logoColor=white" />
-  <img src="https://img.shields.io/badge/LCP-<0.8s-success?style=for-the-badge&logo=speedtest" />
-  <img src="https://img.shields.io/badge/CLS-0.0-success?style=for-the-badge&logo=pagespeedinsights" />
-</p>
+<a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/">
+  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/main/cwv-dashboard.svg" alt="Lighthouse Dashboard highmedeletrica.com.br" width="100%" />
+</a>
 
 <br/>
 
@@ -32,7 +25,7 @@
 <br/>
 
 ### 📊 Code Activity Log
-<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&v=final" width="90%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&v=production" width="90%" alt="Snake Animation" />
 
 <br/>
 <br/>
@@ -41,7 +34,7 @@
 <p align="center">
   <code><b>👨‍💻 Role:</b> Pleno Performance Engineer</code><br>
   <code><b>🚀 Focus:</b> Otimização Crítica & High-Velocity UX</code><br>
-  <code><b>🏆 Last Win:</b> PageSpeed 100/100 (E-commerce)</code><br>
+  <code><b>🏆 Last Win:</b> E-commerce Core Web Vitals (highmedeletrica)</code><br>
   <code><b>🌐 Hub:</b> <a href="https://scudiero.com.br">scudiero.com.br</a></code>
 </p>
 
