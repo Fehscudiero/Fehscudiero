@@ -1,6 +1,6 @@
 <svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Animações e Efeitos Master */
+    /* Animações Core - Mantendo performance máxima */
     @keyframes drawProgress { from { stroke-dashoffset: 283; } to { stroke-dashoffset: 0; } }
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
     @keyframes pulseGlow {
@@ -8,22 +8,63 @@
       50% { filter: drop-shadow(0 0 10px rgba(16, 185, 129, 0.7)); }
       100% { filter: drop-shadow(0 0 3px rgba(16, 185, 129, 0.4)); }
     }
+    
+    /* Animações de Rotação 3D Simulada */
+    @keyframes rotateY_CW { 
+      0% { transform: scaleX(1); opacity: 0.1; } 
+      50% { transform: scaleX(0); opacity: 0.6; } 
+      100% { transform: scaleX(1); opacity: 0.1; } 
+    }
+    @keyframes rotateY_CCW { 
+      0% { transform: scaleX(0); opacity: 0.6; } 
+      50% { transform: scaleX(1); opacity: 0.1; } 
+      100% { transform: scaleX(0); opacity: 0.6; } 
+    }
+
+    /* Definição das classes de animação */
     .animate-draw { stroke-dasharray: 283; stroke-dashoffset: 283; animation: drawProgress 1.5s ease-out forwards; }
-    .animate-fade { opacity: 0; animation: fadeIn 1s ease-out 1s forwards; }
+    .animate-fade { opacity: 0; animation: fadeIn 1s ease-out 1.2s forwards; }
     .glowing-score { animation: pulseGlow 3s infinite; }
+    
+    /* Classes das Órbitas 3D - Origem centralizada em cx=120 cy=80 */
+    .orbit-cw { transform-origin: 120px 80px; animation: rotateY_CW 4s linear infinite; }
+    .orbit-ccw { transform-origin: 120px 80px; animation: rotateY_CCW 4s linear infinite; }
+    
+    /* Efeitos do botão PageSpeed */
     #pagespeed-button { transition: all 0.2s ease-in-out; cursor: pointer; }
     #pagespeed-button:hover rect { fill: #2563EB; }
-    #pagespeed-button:hover { transform: translateY(-2px); filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.4)); }
   </style>
+
+  <defs>
+    <radialGradient id="sphereGradient" cx="120" cy="80" r="45" fx="110" fy="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#1A1B26" stop-opacity="0.8"/>
+    </radialGradient>
+  </defs>
 
   <rect width="800" height="200" rx="10" fill="#16161E" stroke="#1F2937" stroke-width="1"/>
   <rect width="790" height="190" x="5" y="5" rx="8" fill="#1A1B26" />
 
-  <circle cx="120" cy="80" r="45" stroke="#1F2937" stroke-width="10"/>
-  <circle cx="120" cy="80" r="45" stroke="#10B981" stroke-width="10" stroke-linecap="round" transform="rotate(-90 120 80)" class="animate-draw" />
-  <text x="120" y="92" font-family="Fira Code, monospace" font-size="38" font-weight="700" fill="#10B981" text-anchor="middle" class="animate-fade glowing-score">100</text>
-  <text x="120" y="160" font-family="Fira Code, monospace" font-size="12" fill="#94A3B8" text-anchor="middle">PERFORMANCE</text>
+  <g id="performance-orb">
+    <circle cx="120" cy="80" r="45" stroke="#1F2937" stroke-width="10"/>
+    
+    <g class="animate-fade">
+      <circle cx="120" cy="80" r="45" fill="url(#sphereGradient)"/>
 
+      <ellipse cx="120" cy="80" rx="45" ry="1" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="1" transform="rotate(0 120 80)"/>
+      
+      <ellipse cx="120" cy="80" rx="45" ry="45" stroke="#10B981" stroke-opacity="0.1" stroke-width="1" class="orbit-cw"/>
+      <ellipse cx="120" cy="80" rx="45" ry="45" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1" class="orbit-ccw" transform="rotate(30 120 80)"/>
+      <ellipse cx="120" cy="80" rx="45" ry="45" stroke="#10B981" stroke-opacity="0.1" stroke-width="1" class="orbit-cw" transform="rotate(60 120 80)"/>
+      <ellipse cx="120" cy="80" rx="45" ry="45" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1" class="orbit-ccw" transform="rotate(90 120 80)"/>
+    </g>
+    
+    <circle cx="120" cy="80" r="45" stroke="#10B981" stroke-width="10" stroke-linecap="round" transform="rotate(-90 120 80)" class="animate-draw" />
+    
+    <text x="120" y="92" font-family="Fira Code, monospace" font-size="38" font-weight="700" fill="#10B981" text-anchor="middle" class="animate-fade glowing-score">100</text>
+    <text x="120" y="160" font-family="Fira Code, monospace" font-size="12" fill="#94A3B8" text-anchor="middle">PERFORMANCE</text>
+  </g>
+  
   <text x="240" y="60" font-family="Fira Code, monospace" font-size="16" fill="#FFFFFF">SITE ALVO:</text>
   <text x="240" y="85" font-family="Fira Code, monospace" font-size="20" font-weight="600" fill="#3B82F6">highmedeletrica.com.br</text>
   
