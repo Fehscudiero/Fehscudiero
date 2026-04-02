@@ -13,11 +13,12 @@
 ### 🚀 Live Performance Monitor (Core Wins)
 
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/">
-  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/main/cwv-dashboard.svg" alt="Lighthouse Dashboard" width="100%" />
+  <img src="./cwv-dashboard.svg?v=3" alt="Lighthouse Dashboard" width="100%" />
 </a>
+
 <br/>
 
-### 🛠 Tech Stack & Core Systems
+### 🛠 Tech Stack & System Core
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,python,php,mysql,linux,github,vscode,docker,aws,figma&perline=8" width="90%" />
 
 <br/>
@@ -29,11 +30,11 @@
 <br/>
 <br/>
 
-### 📝 Engineering Info
+### 📝 System Information
 <p align="center">
   <code><b>👨‍💻 Role:</b> Pleno Performance Engineer</code><br>
   <code><b>🚀 Focus:</b> Otimização Crítica & High-Velocity UX</code><br>
-  <code><b>🏆 Last Win:</b> E-commerce Core Web Vitals (highmedeletrica)</code><br>
+  <code><b>🏆 Last Win:</b> PageSpeed 100/100 (highmedeletrica)</code><br>
   <code><b>🌐 Hub:</b> <a href="https://scudiero.com.br">scudiero.com.br</a></code>
 </p>
 
