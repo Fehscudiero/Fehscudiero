@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Scudiero;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100+Hunter" alt="Typing SVG" width="100%" />
  
 <br/><br/>
-
+ 
 <p>
   <img src="https://img.shields.io/badge/Performance-100-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-React_Next.js-blue?style=for-the-badge&logo=react&logoColor=white" />
