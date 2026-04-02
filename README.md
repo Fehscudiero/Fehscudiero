@@ -13,9 +13,8 @@
 ### 🚀 Live Performance Monitor (Core Wins)
 
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/">
-  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/main/cwv-dashboard.svg" alt="Lighthouse Dashboard highmedeletrica.com.br" width="100%" />
+  <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/main/cwv-dashboard.svg" alt="Lighthouse Dashboard" width="100%" />
 </a>
-
 <br/>
 
 ### 🛠 Tech Stack & Core Systems
