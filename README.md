@@ -15,13 +15,13 @@
 ### 🚀 Performance & System Metrics
 
 <p align="center">
-  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&v=update_now" height="195" alt="GitHub Stats" />
+  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800&v=20260402" height="195" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=12days_streak" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=day12_force" height="195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://minha-api-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=update_now" width="80%" alt="Top Languages" />
+  <img src="https://minha-api-stats.vercel.app/api/top-langs/?username=Fehscudiero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=20260402" width="80%" alt="Top Languages" />
 </p>
  
 <br/>
@@ -33,7 +33,7 @@
 <br/>
 
 ### 📊 Code Activity Log
-<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&v=refresh" width="90%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark" width="90%" alt="Snake Animation" />
 
 <br/>
 <br/>
