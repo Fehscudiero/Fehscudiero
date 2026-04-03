@@ -48,7 +48,7 @@
 <p align="center">
   <code><b>👨‍💻 Role:</b> Pleno Performance Engineer</code><br>
   <code><b>🚀 Focus:</b> Otimização Crítica & High-Velocity UX</code><br>
-  <code><b>🏆 Last Win:</b> PageSpeed 100/100 (highmedeletrica)</code><br>
+  <code><b>🏆 Last Win:</b> PageSpeed 100/100</code><br>
   <code><b>🌐 Hub:</b> <a href="https://scudiero.com.br">scudiero.com.br</a></code>
 </p>
 
