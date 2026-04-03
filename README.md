@@ -13,20 +13,17 @@
 ### 🚀 Live Performance Monitor (Core Wins)
 
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/?v=1">
-  <img src="./cwv-dashboard.svg?v=orb_final_fixed" alt="Lighthouse Master Dashboard" width="100%" />
+  <img src="./cwv-dashboard.svg?v=final_orb" alt="Lighthouse Master Dashboard" width="100%" />
 </a>
 
 <br/>
 
-### 📈 System Activity & Metrics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6" width="100%" alt="Activity Graph" />
-</p>
+### 📊 Performance & System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&v=update_final" height="185" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&v=update_13" height="185" alt="GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=force_13_days" height="185" alt="GitHub Streak" />
+  <img src="https://SUA-NOVA-API-STREAK.vercel.app/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=force_13_days" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -64,4 +61,6 @@
 
 <br/>
 
-<img src="
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" />
+
+</div>
