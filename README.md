@@ -13,7 +13,7 @@
 ### 🚀 Live Performance Monitor (Core Wins)
 
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/?v=1">
-  <img src="./cwv-dashboard.svg?v=final_fix" alt="Lighthouse Master Dashboard" width="100%" />
+  <img src="./cwv-dashboard.svg?v=lightning_energy" alt="Lighthouse Master Dashboard" width="100%" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800&v=20260403" height="185" alt="GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=streak_force_13" height="185" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=force_13_streak_final" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
