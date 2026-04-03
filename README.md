@@ -21,9 +21,9 @@
 ### 📊 Performance & System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800&v=update_03" height="185" alt="GitHub Stats" />
-    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=streak_fix_03_04" height="185" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1&v=20260403" height="185" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&cache_seconds=1&v=streak_13_force_refresh" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
