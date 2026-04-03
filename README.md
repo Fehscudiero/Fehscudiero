@@ -13,7 +13,7 @@
 ### 🚀 Live Performance Monitor (Core Wins)
 
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/?v=1">
-  <img src="./cwv-dashboard.svg?v=orb_3d" alt="Lighthouse Master Dashboard" width="100%" />
+  <img src="./cwv-dashboard.svg?v=orb_final_v1" alt="Lighthouse Master Dashboard" width="100%" />
 </a>
 
 <br/>
@@ -21,9 +21,9 @@
 ### 📊 Performance & System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&v=2" height="185" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=12days_v1" height="185" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800&v=update_03" height="185" alt="GitHub Stats" />
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=streak_fix_03_04" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -35,7 +35,7 @@
 <br/>
 
 ### 📊 Code Activity Log
-<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&v=production" width="90%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&v=2" width="90%" alt="Snake Animation" />
 
 <br/>
 <br/>
