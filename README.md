@@ -15,7 +15,7 @@
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/?v=1">
   <img src="./cwv-dashboard.svg?v=lightning_energy" alt="Lighthouse Master Dashboard" width="100%" />
 </a>
-
+ 
 <br/>
 
 ### 📈 System Activity & Metrics
