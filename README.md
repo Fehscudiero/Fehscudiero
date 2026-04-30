@@ -12,7 +12,7 @@
  
 ### 🚀 Live Performance Monitor (Core Wins)
 
-<a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/?v=1">
+<a href="https://pagespeed.web.dev/analysis?url=https://www.highmedindustria.com.br/">
   <img src="./cwv-dashboard.svg?v=lightning_energy" alt="Lighthouse Master Dashboard" width="100%" />
 </a>
  
