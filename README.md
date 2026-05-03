@@ -1,5 +1,5 @@
 <div align="center">
- 
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Scudiero;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100+Hunter" alt="Typing SVG" width="100%" />
 <p>
   <img src="https://img.shields.io/badge/Performance-100-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -7,26 +7,26 @@
   <img src="https://img.shields.io/badge/Expertise-Core_Web_Vitals-000?style=for-the-badge&logo=lighthouse&logoColor=white" />
 </p>
 
-<br/> 
-  
+<br/> 
+  
 ### 🚀 Live Performance Monitor (Core Wins)
 
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedindustria.com.br/">
-  <img src="./cwv-dashboard.svg?v=lightning_energy" alt="Lighthouse Master Dashboard" width="100%" />
+  <img src="./cwv-dashboard.svg?v=lightning_energy" alt="Lighthouse Master Dashboard" width="100%" />
 </a>
- 
+ 
 <br/>
 
 ### 📈 System Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800&v=20260403" height="185" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=force_13_streak_final" height="185" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" height="185" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
