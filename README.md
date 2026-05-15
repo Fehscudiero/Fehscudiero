@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Stack-React_Next.js-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Expertise-Core_Web_Vitals-000?style=for-the-badge&logo=lighthouse&logoColor=white" />
 </p>
-  
+
 <br/>
   
 ### 🚀 Live Performance Monitor (Core Wins)
