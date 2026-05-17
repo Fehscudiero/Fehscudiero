@@ -52,7 +52,8 @@
 
   
 
-  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=1" height="185" alt="GitHub Streak" />
+  
 
 </p>
 
