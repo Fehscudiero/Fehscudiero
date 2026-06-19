@@ -65,7 +65,7 @@
 
 ### 🛠 Tech Stack & System Core
 
-<img src="https://skillicons.dev/icons?i=vite,tailwind,html,css,js,ts,nodejs,react,nextjs,python,php,mysql,linux,github,vscode,docker,firebase,figma&perline=8" width="90%" />
+<img src="https://skillicons.dev/icons?i=vite,tailwind,html,css,js,ts,nodejs,react,nextjs,python,php,mysql,linux,git,vscode,docker,firebase,figma&perline=8" width="90%" />
 
 
 
