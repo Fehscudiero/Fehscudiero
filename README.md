@@ -12,125 +12,71 @@
  
 </p>
 
-
-
 <br/>
 
   
 
 ### 🚀 Live Performance Monitor (Core Wins)
 
-
-
 <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedindustria.com.br/">
-
   <img src="./cwv-dashboard.svg?v=lightning_energy" alt="Lighthouse Master Dashboard" width="100%" />
-
 </a>
-
  
-
 <br/>
-
-
 
 ### 📈 System Activity & Metrics
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6" width="100%" alt="Activity Graph" />
-
+  <!-- Otimizado tempo de cache do Gráfico de Atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6&cache_seconds=1800" width="100%" alt="Activity Graph" />
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" height="185" alt="GitHub Stats" />
-
+  <!-- Otimizado tempo de cache do GitHub Stats para 30 minutos -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800" height="185" alt="GitHub Stats" />
   
-
-  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&v=1" height="185" alt="GitHub Streak" />
-  
-
+  <!-- Otimizado tempo de cache do GitHub Streak para 30 minutos -->
+  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&cache_seconds=1800" height="185" alt="GitHub Streak" />
 </p>
-
-
 
 <br/>
-
-
 
 ### 🛠 Tech Stack & System Core
 
 <img src="https://skillicons.dev/icons?i=vite,tailwind,html,css,js,ts,nodejs,react,nextjs,python,php,mysql,linux,git,vscode,docker,firebase,figma&perline=8" width="90%" />
 
-
-
 <br/>
-
 <br/>
-
-
 
 ### 📊 Code Activity Log
 
 <img src="https://raw.githubusercontent.com/Fehscudiero/Fehscudiero/dist/github-contribution-grid-snake-classic-dark.svg?palette=github-dark&v=production" width="90%" alt="Snake Animation" />
 
-
-
 <br/>
-
 <br/>
-
-
 
 ### 📝 System Information
 
 <p align="center">
-
   <code><b>👨‍💻 Role:</b> Pleno Performance Engineer</code><br>
-
   <code><b>🚀 Focus:</b> Otimização Crítica & High-Velocity UX</code><br>
-
   <code><b>🏆 Last Win:</b> PageSpeed 100/100</code><br>
-
   <code><b>🌐 Hub:</b> <a href="https://scudiero.com.br">scudiero.com.br</a></code>
-
 </p>
 
-
-
 <br/>
-
-
 
 ---
 
-
-
 <br/>
-
-
 
 <p align="center">
-
   <i>"Códigos mudam o mundo – comece pelo seu."</i><br>
-
   <b>Felipe Scudiero ⌬</b>
-
 </p>
-
-
 
 <br/>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" />
-
-
 
 </div>
