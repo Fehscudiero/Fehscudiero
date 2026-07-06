@@ -1,20 +1,17 @@
 <div align="center">
 
+<!-- Onda no topo invertida (cabeça para baixo) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=header" width="100%" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100%+Hunter" alt="Typing SVG" width="100%" />
 
 <p>
- 
   <img src="https://img.shields.io/badge/Performance-100-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Stack-React_Next.js-blue?style=for-the-badge&logo=react&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Expertise-Core_Web_Vitals-000?style=for-the-badge&logo=lighthouse&logoColor=white" />
- 
 </p>
 
 <br/>
- 
-
 
 ### 🚀 Live Performance Monitor (Core Wins)
 
@@ -27,16 +24,14 @@
 ### 📈 System Activity & Metrics
 
 <p align="center">
-  <!-- Otimizado tempo de cache do Gráfico de Atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6&cache_seconds=1800" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <!-- Otimizado tempo de cache do GitHub Stats para 30 minutos -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800" height="185" alt="GitHub Stats" />
   
-  <!-- Otimizado tempo de cache do GitHub Streak para 30 minutos -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
+  <!-- Streak corrigido: Voltando para o demolab sem forçar quebra de cache para evitar bloqueio -->
+  <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -77,6 +72,7 @@
 
 <br/>
 
+<!-- Onda normal no rodapé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" />
 
 </div>
