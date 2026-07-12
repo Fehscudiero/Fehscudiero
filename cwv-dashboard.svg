@@ -72,7 +72,7 @@
   <text x="350" y="130" font-family="Fira Code, monospace" font-size="12" fill="#10B981">● FID: 1ms</text>
   <text x="450" y="130" font-family="Fira Code, monospace" font-size="12" fill="#10B981">● CLS: 0.0</text>
 
-  <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedeletrica.com.br/?v=1">
+  <a href="https://pagespeed.web.dev/analysis?url=https://www.highmedindustria.com.br/?v=1">
     <g id="pagespeed-button">
       <rect x="550" y="80" width="220" height="50" rx="8" fill="#3B82F6"/>
       <text x="660" y="110" font-family="Fira Code, monospace" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">TESTAR NO PAGESPEED →</text>
