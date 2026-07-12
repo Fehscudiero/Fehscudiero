@@ -1,6 +1,6 @@
 <div align="center">
 
-<!--  Onda no topo invertida (cabeça para baixo) ->
+<!--  Onda no topo invertida (cabeça para baixo) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100%+Hunter" alt="Typing SVG" width="100%" />
