@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800" height="185" alt="GitHub Stats" />
   
-  <!-- Streak corrigido: Voltando para o demolab sem forçar quebra de cache para evitar bloqueio -->
+  <!-- Streak corrigido: Voltando para  o demolab sem forçar quebra de cache para evitar bloqueio -->
   <img src="https://streak-stats.demolab.com?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
 </p>
 
