@@ -23,11 +23,9 @@
 
 ### 📈 System Activity & Metrics
 
-<!-- Activity Graph temporariamente desativado devido ao Rate Limit da API pública do GitHub
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6&cache_seconds=1800" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-fehscu.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6&cache_seconds=1800" width="100%" alt="Activity Graph" />
 </p>
--->
 
 <p align="center">
   <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&count_private=true&cache_seconds=1800" height="185" alt="GitHub Stats" />
