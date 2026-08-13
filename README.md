@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&count_private=true&cache_seconds=1801" height="185" alt="GitHub Stats" />
+  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&count_private=true&cache_seconds=1802" height="185" alt="GitHub Stats" />
 </p>
 
 <p align="center">
