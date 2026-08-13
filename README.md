@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-fehscudiero.vercel.app/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-fehscudi.vercel.app/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
