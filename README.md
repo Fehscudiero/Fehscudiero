@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil;Especialista+em+Web+Performance;Core+Web+Vitals+Master;PageSpeed+100%+Hunter" alt="Typing SVG" width="100%" />
-  
+ 
 <p>
   <img src="https://img.shields.io/badge/Performance-100-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-React_Next.js-blue?style=for-the-badge&logo=react&logoColor=white" />
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800&v=20261103" height="185" alt="GitHub Stats" />
+  <img src="./github-stats.svg?v=20261103" height="185" alt="GitHub Stats" />
 </p>
 
 <p align="center">
