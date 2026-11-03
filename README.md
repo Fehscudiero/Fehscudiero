@@ -24,15 +24,15 @@
 ### 📈 System Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-fehscu.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6&cache_seconds=1800" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-fehscu.vercel.app/graph?username=Fehscudiero&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=3B82F6&point=3B82F6&cache_seconds=1800&v=20261103" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&count_private=true&cache_seconds=1802" height="185" alt="GitHub Stats" />
+  <img src="https://minha-api-stats.vercel.app/api?username=Fehscudiero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800&v=20261103" height="185" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-fehscudi.vercel.app/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br" height="185" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-fehscudi.vercel.app/?user=Fehscudiero&theme=tokyonight&hide_border=true&background=0D1117&locale=pt-br&cache_seconds=1800&v=20261103" height="185" alt="GitHub Streak" />
 </p>
 
 <br/>
